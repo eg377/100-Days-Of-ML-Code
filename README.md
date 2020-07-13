@@ -8,7 +8,7 @@ Get the datasets from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/tr
 Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%201_Data%20PreProcessing.md).
 
 <p align="center">
-  Python
+  Python, NumPy, Pandas
 </p>
 
 <p align="center">
