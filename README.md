@@ -22,6 +22,8 @@ Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/
 
 [Simple Linear Regression](https://en.wikipedia.org/wiki/Simple_linear_regression)
 
+[Penn State Stat 462 – 2.1 - What is Simple Linear Regression?](https://online.stat.psu.edu/stat462/node/91/)
+
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%202.jpg">
 </p>
