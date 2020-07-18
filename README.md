@@ -154,6 +154,7 @@ Watched the remaining 4 videos covering topics Like Integration and Higher order
 Link to the playlist [here.](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
 ## Random Forests | Day 33
+Random Forests Algorithm
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2033.jpg">
 </p>
